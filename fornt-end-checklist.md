@@ -4,7 +4,7 @@
 
 ## ความรู้พื้นฐานของ Computer Science
 
-- [ ] รู้จักกับ HTTP
+- [/] รู้จักกับ HTTP
 - [ ] การทํางานเบื้องต้นของระบบ Internet
 - [ ] DNS / Domain name และ Client - Server Model
 - [ ] การทํางานของ Web Browser
