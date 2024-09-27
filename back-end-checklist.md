@@ -10,45 +10,45 @@
 - [ ] C#
 - [ ] PHP
 - [ ] Ruby
-- [ ] Go
+- [x] Go
 
 ## พื้นฐานเทคโนโลยีเว็บ และ Computer Network
 
-- [ ] Data Structures
-- [ ] Algorithms
-- [ ] การออกแบบและการวิเคราะห์ระบบ
-- [ ] Design Patterns
-- [ ] OOP
-- [ ] Problem Solving และ คณิตศาสตร์สําหรับคอมพิวเตอร์
+- [x] Data Structures
+- [x] Algorithms
+- [x] การออกแบบและการวิเคราะห์ระบบ
+- [x] Design Patterns
+- [x] OOP
+- [x] Problem Solving และ คณิตศาสตร์สําหรับคอมพิวเตอร์
 
 ## ระบบการจัดการฐานข้อมูล
 
-- [ ] ฐานข้อมูล SQL
-- [ ] ใช้งาน MySQL
-- [ ] ใช้งาน PostgreSQL
-- [ ] ฐานข้อมูล NoSQL
-- [ ] ใช้งาน MongoDB
+- [x] ฐานข้อมูล SQL
+- [x] ใช้งาน MySQL
+- [x] ใช้งาน PostgreSQL
+- [x] ฐานข้อมูล NoSQL
+- [x] ใช้งาน MongoDB
 
 ## การทํางานร่วมกับฝั่ง FRONT-END
 
 - [ ] การรองรับ AJAX หรือ Library Front-end
-- [ ] Web Services
-- [ ] การรับ ส่งข้อมูลจากฝั่ง Client
-- [ ] การทํางานร่วมกับ JavaScript Frameworks
-- [ ] พื้นฐาน HTML CSS และ JavaScript
+- [x] Web Services
+- [x] การรับ ส่งข้อมูลจากฝั่ง Client
+- [x] การทํางานร่วมกับ JavaScript Frameworks
+- [x] พื้นฐาน HTML CSS และ JavaScript
 
 ## การพัฒนา RESTFUL API
 
-- [ ] ความเข้าใจใน RESTful API
-- [ ] การออกแบบ RESTful API
-- [ ] การพัฒนา RESTful API
-- [ ] Authentication และ Authorization
+- [x] ความเข้าใจใน RESTful API
+- [x] การออกแบบ RESTful API
+- [x] การพัฒนา RESTful API
+- [x] Authentication และ Authorization
 - [ ] การทํา API Documentation
 - [ ] Caching
 
 ## เครื่องมือสําหรับทดสอบ API (เลือก 1 เครื่องมือ)
 
-- [ ] Postman (แนะนําตัวนี้)
+- [x] Postman (แนะนําตัวนี้)
 - [ ] Bruno
 - [ ] Testfully
 - [ ] ทดสอบ RESTful API
@@ -62,10 +62,10 @@
 
 ## การจัดการโปรเจกต์ด้วย GIT
 
-- [ ] ความรู้เบื้องต้นเกี่ยวกับ Git
-- [ ] การทํางานร่วมกับ Command-line
-- [ ] การใช้งาน Branch และ Merge
-- [ ] การใช้งาน Git Remote
+- [x] ความรู้เบื้องต้นเกี่ยวกับ Git
+- [x] การทํางานร่วมกับ Command-line
+- [x] การใช้งาน Branch และ Merge
+- [x] การใช้งาน Git Remote
 
 ## การใช้งาน DOCKER
 
