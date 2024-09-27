@@ -16,26 +16,26 @@
 
 - [x] HTML พื้นฐาน
 - [x] CSS พื้นฐาน
-- [ ] จัดการ Layouts ของ CSS Grid, Flexbox
-- [ ] การจัดการกับฟอร์ม และ Validation
-- [ ] Responsive Design และ Media Querie
+- [x] จัดการ Layouts ของ CSS Grid, Flexbox
+- [x] การจัดการกับฟอร์ม และ Validation
+- [x] Responsive Design และ Media Querie
 - [ ] ความรู้พื้นฐานด้าน Search Engine Optimization
-- [ ] ES6+ และ จัดการกับ Document Object Model (DOM)
+- [x] ES6+ และ จัดการกับ Document Object Model (DOM)
 
 ## JavaScript
 
 - [x] JavaScript พื้นฐาน
-- [ ] AJAX, Fetch API และ Axios
-- [ ] JSON/XML
+- [x] AJAX, Fetch API และ Axios
+- [x] JSON/XML
 
 ## Front-End JavaScript Libraries/ Frameworks
 
-- [ ] State Management: Redux, MobX, Vuex
+- [x] State Management: Redux, MobX, Vuex
 - [ ] Build Tools & Runne
-- [ ] TypeScript
-- [ ] React.js
-- [ ] Anugular
-- [ ] Vue.js
+- [x] TypeScript
+- [x] React.js
+- [x] Anugular
+- [x] Vue.js
 
 ## Version Control
 
@@ -45,9 +45,9 @@
 
 ## การทำงานกับ API
 
-- [ ] JSON Web Tokens
-- [ ] Web APIs ใน Web Browser
-- [ ] REST
+- [x] JSON Web Tokens
+- [x] Web APIs ใน Web Browser
+- [x] REST
 - [ ] GraphQL
 
 ## Testing Libraries & คุณภาพของโค้ด
@@ -59,7 +59,7 @@
 
 ## Code Quality & Formatter
 
-- [ ] Prettier
+- [x] Prettier
 - [ ] ESLint
 
 ## เครื่องมือ และ การออกแบบ CSS
@@ -67,24 +67,24 @@
 - [ ] CSS Architecture (BEM)
 - [ ] CSS Architecture (OOCSS)
 - [ ] CSS Preprocessor (SASS / SCSS)
-- [ ] Tailwind
-- [ ] Bootstrap
+- [x] Tailwind
+- [x] Bootstrap
 
 ## การออกแบบการเข้าถึงและประสบการณ์การใช้งาน
 
 - [ ] WAI-ARIA principles
-- [ ] พื้นฐานการออกแบบ UX UI
+- [x] พื้นฐานการออกแบบ UX UI
 - [ ] i18n and l10n
 
 ## PERFORMANCE/SECURITY
 
-- [ ] CORS
-- [ ] HTTPS
+- [x] CORS
+- [x] HTTPS
 - [ ] Content Security Policy
 - [ ] OWASP TOP 10 ประจําปี
 - [ ] Performance Testing
-- [ ] การตรวจสอบเว็บจาก Lighthouse
-- [ ] การใช้งาน DevTools
+- [x] การตรวจสอบเว็บจาก Lighthouse
+- [x] การใช้งาน DevTools
 
 ## SERVER-SIDERENDERING(SSR)
 
